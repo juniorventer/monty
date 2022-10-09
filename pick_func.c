@@ -20,7 +20,7 @@ void (*pick_func(char *s))(stack_t **, unsigned int)
 		{ "nop", nop },
 		{ "sub", sub },
 		{ "div", divide },
-		{ "mul", mul };
+		{ "mul", mul},
 		{ "mod", mod },
 		{ "pchar", pchar },
 		{ "pstr", pstr },
